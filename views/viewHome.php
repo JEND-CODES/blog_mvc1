@@ -2,6 +2,8 @@
 
 </header>
 
+<h4>Dernières publications</h4>
+
         <?php
         foreach($chapters1 as $chapter): ?>
 
