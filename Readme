@@ -1,3 +1,5 @@
 Tests de départ Architecture MVC
 -> Edition de la page d'accueil
 -> Edition de bloc de pages
+-> Appel du Model dans le Controller
+-> Boucle Foreach dans viewHome
